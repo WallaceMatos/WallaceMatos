@@ -2,7 +2,7 @@
 
 
 
-# Meu nome é Wallace de Matos. 👍 :flag_br:
+# Meu nome é Wallace de Matos. 👍🇧🇷
 Sou estudante de Análise e desenvolvimento de sistemas, trabalho como desenvolvedor front-end.
 
 Passo a maior parte do tempo codando e procurando soluções😎
