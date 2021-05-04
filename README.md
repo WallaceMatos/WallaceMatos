@@ -10,9 +10,8 @@
 
 ### Social media 💻
 
-- [Linkedin](https://linkedin.com/wallacedematos/)
+- [Linkedin](https://linkedin.com/in/wallacedematos/)
 
-- [Twitter]()
 
 
 
