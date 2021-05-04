@@ -12,9 +12,9 @@
 
 - [Linkedin](https://linkedin.com/wallacedematos/)
 
--
+- [Twitter]()
 
--
+
 
 
 
